@@ -1,0 +1,11 @@
+.
+├── README.md
+├── brew_packages_base.txt
+├── brew_packages_installed.txt
+├── directory_listing.txt
+├── makefile
+├── makefile_graph.png
+├── requirements.txt
+└── requirements_base.txt
+
+0 directories, 8 files

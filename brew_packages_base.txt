@@ -1,0 +1,12 @@
+coreutils
+zlib
+openssl
+readline
+xz
+git
+tree
+gawk
+pyenv
+pyenv-virtualenv
+makefile2graph
+graphviz
