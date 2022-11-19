@@ -3,6 +3,8 @@
 # Setup a macOS computer with a basic python development environment.
 # NOTE: Updating OS software, installing xcode and Homebrew should be done 
 # on first installation or as needed. 
+#
+# Install macOS commandline tools with `sudo xcode-select --install`
 #-------------------------------------------------------------------------
 # make all                  Executes the default make task.
 # make help                 List of all makefile tasks.
@@ -66,7 +68,7 @@ endef
 ############################################################################
 # Application variables
 HOMEBREW-PACKAGES := coreutils zlib openssl readline xz git tree gawk pyenv pyenv-virtualenv makefile2graph graphviz
-PYTHON-VERSION := 3.10.2
+PYTHON-VERSION := 3.10.7
 PROJECT-PATH := $(shell pwd)
 PROJECT-NAME := $(notdir $(shell pwd))
 
