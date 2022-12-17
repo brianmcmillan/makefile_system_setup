@@ -1,0 +1,19 @@
+## Example shell scripts for setting up a unix system
+
+
+https://tech.scargill.net/the-script/  
+https://bitbucket.org/scargill/workspace/snippets/kAR5qG/the-script
+
+
+https://tech.scargill.net/rpi4-network-lesson-for-today/  
+https://github.com/billw2/rpi-clone/blob/master/rpi-clone  
+
+https://core-electronics.com.au/guides/create-an-installer-script-for-raspberry-pi/  
+
+https://geoffhudik.com/tech/2020/04/27/scripting-raspberry-pi-image-builds/  
+https://geoffhudik.com/tech/2020/04/27/automating-raspberry-pi-setup/  
+
+https://github.com/RPi-Distro/pi-gen  
+
+
+https://www.phpliteadmin.org
