@@ -39,7 +39,7 @@ linuxify_formulas=(
     "watch"
     "wget"
     "wdiff"
-    # "gdb" intel only
+    "gdb" #intel only
     "autoconf"
 
     # GNU programs whose BSD counterpart is installed in macOS
